@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//import static org.junit.Assert.assertThat;
 
 public class quizArray {
     public static void main(String[] args) {
