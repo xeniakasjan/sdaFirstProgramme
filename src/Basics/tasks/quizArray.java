@@ -1,3 +1,5 @@
+package Basics.tasks;
+
 import java.util.Scanner;
 //import static org.junit.Assert.assertThat;
 

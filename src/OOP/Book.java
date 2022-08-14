@@ -1,5 +1,7 @@
 package OOP;
 
+import java.sql.SQLOutput;
+
 public class Book {
 
     //Fields
@@ -25,5 +27,11 @@ public class Book {
 
     private boolean isNumberOfPagesCorrect(int numberOfPages){
         return numberOfPages > 10;
+    }
+    public void printBookInfo(){
+        System.out.println("Title: " + title);
+        System.out.println("Author: " + author);
+        System.out.println("Number of pages: " + numberOfPages);
+
     }
 }

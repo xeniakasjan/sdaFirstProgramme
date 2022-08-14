@@ -1,3 +1,5 @@
+package Basics;
+
 public class Varargs {
     public static void main(String[] args) {
         printNumbers(2,6,34,2,1);

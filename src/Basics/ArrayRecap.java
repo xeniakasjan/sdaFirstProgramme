@@ -1,3 +1,5 @@
+package Basics;
+
 public class ArrayRecap {
     public static void main(String[] args) {
 

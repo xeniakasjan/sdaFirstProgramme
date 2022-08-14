@@ -1,3 +1,5 @@
+package Basics.tasks;
+
 public class mathMethodsExamples {
     public static void main(String[] args) {
         float number = 5.1f;
