@@ -1,4 +1,4 @@
-public class randomNumber {
+public class mathMethodsExamples {
     public static void main(String[] args) {
         float number = 5.1f;
         System.out.println(number);
