@@ -1,7 +1,7 @@
 package Homeworks;
 import java.util.Scanner;
 
-public class rockPaperScissors_pro {
+public class rockPaperScissors2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -11,7 +11,7 @@ public class rockPaperScissors_pro {
         System.out.println("Please enter Player's 2 choice");
         String player2 = scanner.nextLine().toLowerCase().trim();
 
-        //System.out.println(rockPaperScissors_pro(player1,player2));
+        System.out.println(rockPaperScissors(player1,player2));
     }
 
     public static String rockPaperScissors(String player1, String player2) {
