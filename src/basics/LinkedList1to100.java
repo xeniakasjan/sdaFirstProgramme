@@ -1,6 +1,5 @@
-package Basics;
+package basics;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class LinkedList1to100 {

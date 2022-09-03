@@ -1,6 +1,4 @@
-package Basics;
-
-import java.util.Scanner;
+package basics;
 
 public class HelloWorld {
     public static void main(String[] args) {

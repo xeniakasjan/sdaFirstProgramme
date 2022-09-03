@@ -1,4 +1,4 @@
-package Basics.tasks;
+package basics.tasks;
 
 public class mathMethodsExamples {
     public static void main(String[] args) {

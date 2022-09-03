@@ -1,6 +1,4 @@
-package Basics;
-
-import org.w3c.dom.ls.LSOutput;
+package basics;
 
 import java.util.HashMap;
 import java.util.Map;
